@@ -38,3 +38,7 @@ Para más información o si tienes alguna duda, puedes contactarnos en:
 
 - **Website**: [diversa.studio](https://diversa.studio/)
 - **Email**: [hello@diversa.studio](mailto:hello@diversa.studio)
+
+
+## Agradecimientos
+Gracias a la red de Inteligencia Artificial Feminista FAIR por apoyar esta investigación 💜
